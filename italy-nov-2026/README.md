@@ -2,11 +2,12 @@
 
 **Travelers:** 3 adults · **From:** Boston (BOS)
 **Out:** Wed Nov 18 or Thu Nov 19 · **Home:** Sun Nov 29 or Mon Nov 30
-**Cabins tracked:** business and premium economy (extra legroom); economy for reference only
+**Budget:** **under $4,000 total for all 3** (about $1,333 per person)
+**Cabins tracked:** economy, plus premium economy / extra legroom when it fits the budget
 **Stops:** nonstop or 1 stop each way (2+ stops are filtered out)
-**Daily check:** automatic, see [`TRACKING.md`](TRACKING.md)
+**Daily check:** automatic, see [`TRACKING.md`](TRACKING.md) · Today's best: [`LATEST.md`](LATEST.md)
 
-Full price history: [`fares.csv`](fares.csv). All prices are Google Flights totals **for 3 adults** in USD, checked 2026-09-26.
+Full price history: [`fares.csv`](fares.csv). All prices are Google Flights totals **for 3 adults** in USD.
 
 ---
 
@@ -15,64 +16,56 @@ Full price history: [`fares.csv`](fares.csv). All prices are Google Flights tota
 | Dates | Plan |
 |---|---|
 | Wed Nov 18 | Overnight flight out of Boston |
-| Thu Nov 19 – Sun Nov 22 | **Rome and Pompeii.** Rome → Naples is about 1h10 on the fast train; the Circumvesuviana or a driver covers Naples → Pompeii (about 40 min). A night in Naples or Sorrento makes it an easy day. |
-| Sun Nov 22 | Fast train to Florence (Naples → Florence about 3h, Rome → Florence about 1h35) |
+| Thu Nov 19 – Sun Nov 22 | **Pompeii (and Rome or Naples).** Rome → Naples is about 1h10 on the fast train; Naples → Pompeii is about 40 min on the Circumvesuviana. Florence → Naples is about 3h. |
+| Sun Nov 22 | Train to Florence |
 | Mon Nov 23 – Thu Nov 26 AM | Florence |
 | Thu Nov 26 PM – Sat Nov 28 | Tuscany: Siena, Chianti, Montalcino, Montepulciano |
 | Sat Nov 28 / Sun Nov 29 | Back to Florence |
-| Sun Nov 29 or Mon Nov 30 | Fly home from **Florence (FLR)**, or take the train to Rome (FCO) for a nonstop |
-
-The four free days before Florence are where Pompeii fits. The best ticket shape is **open-jaw**: into Rome, home from Florence. If you'd rather land in Florence, SWISS gets you to FLR by 1:50pm Nov 19. From there Pompeii is a 3-hour train south and back to Florence by Sunday.
+| Sun Nov 29 or Mon Nov 30 | Fly home |
 
 ---
 
-## Business class, best options (3 adults)
+## Best fares within budget (checked 2026-09-26, economy, 3 adults)
 
-| Option | Route / dates | Total for 3 | Per person | Notes |
+| Option | Dates | Total for 3 | Per person | Why / catch |
 |---|---|---|---|---|
-| ⭐ **Most comfortable into Florence** | SWISS BOS⇄FLR, Nov 18 → Nov 30 | **$14,260** | $4,753 | LX53 overnight via Zurich (85 min) with a lie-flat seat. Home on LX1675 + LX52, landing BOS 8:20pm. |
-| ⭐ **Nonstop into Rome** | ITA AZ615 BOS→FCO Nov 18 (nonstop, 5:20pm → 7:15am) | $12,977 one-way | $4,326 | Also nonstop home: AZ614 FCO→BOS Nov 29, $12,062. These are one-way prices. **A round trip or open-jaw on one ticket is usually much cheaper**, so check the link below. |
-| **Cheapest business** | Icelandair BOS⇄FCO, Nov 18 → Nov 30 | **$9,627** | $3,209 | Via Reykjavik. Saga Premium is a large recliner, **not lie-flat**. |
+| ⭐ **SWISS Boston ⇄ Florence** | Nov 18 → Nov 30 | **$2,956** | $985 | **Best overall.** Short 85-min Zurich connections both ways. Lands Florence 1:50pm Nov 19; home lands Boston 8:20pm Nov 30. Leaves about $1,000 in the budget for extra-legroom seats or bags. |
+| **SWISS / Lufthansa Boston ⇄ Florence** | Nov 18 → Nov 30 | $2,978 | $993 | Same outbound; home via Munich, lands Boston 6:35pm |
+| **TAP Boston ⇄ Rome** | Nov 18 → Nov 30 | $2,543 | $848 | Via Lisbon both ways (about 2h connections). Lands Rome 11:25am Nov 19, so the Pompeii days start from Rome. |
+| Cheapest | TAP Boston ⇄ Rome, Nov 18 → Nov 30 | $1,904 | $635 | Overnight layover in Lisbon on the way home |
+| Cheapest into Florence | SWISS / Austrian, Nov 18 → Nov 30 | $2,383 | $794 | Overnight layover in Vienna on the way home |
 
-Other business one-ways found: BA via London (BOS→FCO $10,245; FLR→BOS $12,139), Air France via Paris ($12,787), Delta nonstop FCO→BOS ($18,257).
+**Coming home Nov 29 costs more than Nov 30.** It's the Sunday after Thanksgiving: SWISS Nov 18 → 29 with good connections is $3,829.
 
-## Premium economy / extra legroom, best options (3 adults)
+### Premium economy / extra legroom
 
-| Option | Route / dates | Total for 3 | Per person | Notes |
-|---|---|---|---|---|
-| ⭐ **Nonstop out** | Delta DL112 BOS→FCO Nov 18 (6:45pm → 8:45am) | $3,650 one-way | $1,217 | Delta Premium Select |
-| ⭐ **Nonstop out** | ITA AZ615 BOS→FCO Nov 18 (5:20pm → 7:15am) | $3,932 one-way | $1,311 | |
-| Home via London | BA FLR→BOS Nov 30 | $6,027 one-way | $2,009 | One stop, World Traveller Plus |
-| Home via London | BA FCO→BOS Nov 30 | $6,082 one-way | $2,027 | |
-| Lowest price, but check the seat | TAP BOS⇄FCO or BOS⇄FLR, Nov 18 → Nov 30 | ~$2,600 | ~$865 | ⚠️ TAP has no real premium economy cabin on these planes, so this is likely an extra-legroom economy seat. The return also has an overnight layover in Lisbon. |
+- A real premium economy round trip on SWISS, Delta, ITA or BA **does not fit $4,000 right now**. Delta's nonstop to Rome alone is $3,650 one-way for 3. The daily check will flag it if one drops under budget.
+- TAP shows "premium economy" around $2,600 for 3, but TAP has no true premium economy cabin on these planes. It's likely an extra-legroom economy seat.
+- **Cheaper route to legroom:** book the SWISS or TAP economy fare, then pay for extra-legroom or exit-row seats on the long flights. The SWISS fare leaves room in the budget for that. Check the price in the seat map before paying.
 
-Premium economy home-leg prices are much higher as one-ways (Delta nonstop FCO→BOS showed $9,208). **Price the nonstop as a round trip or open-jaw**, where it should come down a lot.
+### Nonstop option
 
-## Economy (reference)
-
-About $635–$800 per person round trip (TAP via Lisbon, SWISS/Austrian into Florence), so roughly $1,900–$2,400 for 3.
+Delta's nonstop to Rome is $1,370 for 3 one-way (DL112, Nov 18). The nonstops home (Delta or ITA, Nov 29) are about $2,770–2,880 as one-ways, which makes the pair about $4,100–4,300, just over budget. On a single ticket the pair may come in lower, so use the link below.
 
 ---
 
 ## Check live prices (click to open Google Flights)
 
-- [Business, open-jaw BOS→FCO Nov 18 / FLR→BOS Nov 30, 3 adults](https://www.google.com/travel/flights?q=Business%20class%20flights%20for%203%20adults%20from%20BOS%20to%20FCO%20on%202026-11-18%20and%20from%20FLR%20to%20BOS%20on%202026-11-30)
-- [Business, BOS⇄FCO nonstop Nov 18 → Nov 29, 3 adults](https://www.google.com/travel/flights?q=Nonstop%20business%20class%20flights%20for%203%20adults%20from%20BOS%20to%20FCO%20on%202026-11-18%20returning%202026-11-29)
-- [Business, BOS⇄FLR Nov 18 → Nov 30, 3 adults](https://www.google.com/travel/flights?q=Business%20class%20flights%20for%203%20adults%20from%20BOS%20to%20FLR%20on%202026-11-18%20returning%202026-11-30)
-- [Premium economy, BOS⇄FCO nonstop Nov 18 → Nov 29, 3 adults](https://www.google.com/travel/flights?q=Nonstop%20premium%20economy%20flights%20for%203%20adults%20from%20BOS%20to%20FCO%20on%202026-11-18%20returning%202026-11-29)
-- [Premium economy, open-jaw BOS→FCO Nov 18 / FLR→BOS Nov 30, 3 adults](https://www.google.com/travel/flights?q=Premium%20economy%20flights%20for%203%20adults%20from%20BOS%20to%20FCO%20on%202026-11-18%20and%20from%20FLR%20to%20BOS%20on%202026-11-30)
+- [Economy, BOS⇄FLR Nov 18 → Nov 30, 3 adults](https://www.google.com/travel/flights?q=Flights%20for%203%20adults%20from%20BOS%20to%20FLR%20on%202026-11-18%20returning%202026-11-30)
+- [Economy, BOS⇄FCO Nov 18 → Nov 30, 3 adults](https://www.google.com/travel/flights?q=Flights%20for%203%20adults%20from%20BOS%20to%20FCO%20on%202026-11-18%20returning%202026-11-30)
+- [Economy, nonstop BOS⇄FCO Nov 18 → Nov 29, 3 adults](https://www.google.com/travel/flights?q=Nonstop%20flights%20for%203%20adults%20from%20BOS%20to%20FCO%20on%202026-11-18%20returning%202026-11-29)
+- [Premium economy, BOS⇄FCO Nov 18 → Nov 30, 3 adults](https://www.google.com/travel/flights?q=Premium%20economy%20flights%20for%203%20adults%20from%20BOS%20to%20FCO%20on%202026-11-18%20returning%202026-11-30)
 
 On each Google Flights page, switch on **Track prices** to get emails when the fare moves.
 
 ## How this tracker works
 
-- A scheduled Claude routine runs every morning. It re-runs the searches in [`TRACKING.md`](TRACKING.md), appends new rows to `fares.csv`, updates [`LATEST.md`](LATEST.md) with the day's best fares, and flags drops.
-- `fares.csv` holds one row per fare observation. New checks are appended with a new `checked` date, so price movement stays visible over time.
-- Searches: BOS ⇄ FCO / FLR (plus one-ways FCO/FLR → BOS) for all four date combinations, in business and premium economy, for 3 adults.
-- Data comes from Google Flights through an Apify scraper. Round-trip rows show the cheapest outbound combined with return options, so **nonstop round trips (ITA/Delta) need the links above** to see their real combined price.
+- A scheduled Claude routine runs every morning at 6:52am Boston time. It re-runs the searches in [`TRACKING.md`](TRACKING.md) (economy and premium economy, 3 adults, all four date combos, max 1 stop each way), appends new rows to `fares.csv`, rewrites [`LATEST.md`](LATEST.md), and flags budget fares and price drops.
+- `fares.csv` holds one row per fare observation, dated by the `checked` column, so price movement stays visible over time.
+- Round-trip rows show the cheapest outbound combined with return options. Use the links above to see other combinations.
 
 ## Things to know
 
-- **Thanksgiving is Thu Nov 26.** U.S. fares for the Sunday/Monday after Thanksgiving (Nov 29/30) run high. The return leg is where you'll see the most movement.
-- November is low season in Italy. The ITA and Delta nonstops from Boston both showed up for these dates (Nov 18 out, Nov 29 back).
-- Suggested target: a lie-flat business fare under about **$10,000 for 3**, or a nonstop premium economy round trip under about **$5,000 for 3**, is a good price to book.
+- **Thanksgiving is Thu Nov 26.** Fares home on Sun Nov 29 run noticeably higher than Mon Nov 30.
+- Prices include standard taxes. Basic or "light" fares may charge for checked bags and seat selection, so budget roughly $100–200 per person for bags if you check them.
+- November is low season in Italy, but transatlantic fares for Thanksgiving week usually rise as the date gets close. **A good fare under budget is worth booking** rather than waiting for a last-minute drop.

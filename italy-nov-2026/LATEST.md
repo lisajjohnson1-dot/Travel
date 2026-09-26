@@ -1,14 +1,15 @@
 # Latest fare check: 2026-09-26 (baseline)
 
-Totals for **3 adults**, USD, nonstop or 1 stop each way.
+Totals for **3 adults**, USD, nonstop or 1 stop each way. **Budget: under $4,000 total.**
 
-| Cabin | Best fare | Total | Per person |
-|---|---|---|---|
-| Business, lie-flat | SWISS BOS⇄FLR, Nov 18 → Nov 30 | $14,260 | $4,753 |
-| Business, any seat | Icelandair BOS⇄FCO, Nov 18 → Nov 30 (recliner) | $9,627 | $3,209 |
-| Business, nonstop one-way out | ITA AZ615 BOS→FCO, Nov 18 | $12,977 | $4,326 |
-| Premium economy, nonstop one-way out | Delta DL112 BOS→FCO, Nov 18 | $3,650 | $1,217 |
-| Premium economy, home | BA FLR→BOS via London, Nov 30 | $6,027 | $2,009 |
+| Option | Dates | Total for 3 | Per person | In budget? |
+|---|---|---|---|---|
+| ⭐ SWISS BOS⇄FLR (short Zurich connections) | Nov 18 → Nov 30 | $2,956 | $985 | ✅ |
+| SWISS / Lufthansa BOS⇄FLR | Nov 18 → Nov 30 | $2,978 | $993 | ✅ |
+| TAP BOS⇄FCO (2h Lisbon connections) | Nov 18 → Nov 30 | $2,543 | $848 | ✅ |
+| TAP BOS⇄FCO, cheapest (overnight Lisbon on return) | Nov 18 → Nov 30 | $1,904 | $635 | ✅ |
+| SWISS BOS⇄FLR, home Sunday | Nov 18 → Nov 29 | $3,829 | $1,276 | ✅ (barely) |
+| Premium economy, not TAP | any | $6,000+ | $2,000+ | ❌ |
 
 ## 🔔 Alerts
 None yet. This is the first check.
