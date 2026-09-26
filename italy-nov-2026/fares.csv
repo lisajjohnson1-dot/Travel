@@ -1,0 +1,38 @@
+checked,cabin,trip,route,depart,return,airlines,stops_out,stops_back,total_usd_3_adults,per_person_usd,notes
+2026-09-26,business,roundtrip,BOS-FCO,2026-11-18,2026-11-30,Icelandair,1,1,9627,3209,Saga Premium via Reykjavik; recliner not lie-flat
+2026-09-26,business,roundtrip,BOS-FCO,2026-11-18,2026-11-29,Icelandair,1,1,11127,3709,Saga Premium via Reykjavik
+2026-09-26,business,roundtrip,BOS-FCO,2026-11-19,2026-11-30,Icelandair,1,1,9777,3259,Saga Premium via Reykjavik
+2026-09-26,business,roundtrip,BOS-FCO,2026-11-19,2026-11-29,Icelandair,1,1,11277,3759,Saga Premium via Reykjavik
+2026-09-26,business,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS,1,1,14260,4753,LX53 out / LX1675+LX52 back via Zurich; lie-flat transatlantic
+2026-09-26,business,roundtrip,BOS-FLR,2026-11-18,2026-11-29,SWISS + Air Dolomiti + Air Canada,1,2,10446,3482,return 6:30am FLR via Frankfurt and Montreal
+2026-09-26,business,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS + Austrian,1,1,10816,3605,return has overnight in Vienna
+2026-09-26,business,roundtrip,BOS-FLR,2026-11-19,2026-11-30,Icelandair + ITA,2,2,11038,3679,via Reykjavik and Rome
+2026-09-26,business,oneway,BOS-FCO,2026-11-18,,ITA,0,,12977,4326,AZ615 nonstop 5:20pm -> 7:15am
+2026-09-26,business,oneway,BOS-FCO,2026-11-18,,Icelandair,1,,4524,1508,via Reykjavik
+2026-09-26,business,oneway,BOS-FCO,2026-11-18,,British Airways,1,,10245,3415,via London
+2026-09-26,business,oneway,BOS-FCO,2026-11-18,,SWISS,1,,12782,4261,via Zurich
+2026-09-26,business,oneway,BOS-FCO,2026-11-18,,Air France,1,,12787,4262,via Paris
+2026-09-26,business,oneway,FCO-BOS,2026-11-29,,ITA,0,,12062,4021,AZ614 nonstop 10:15am -> 1:45pm
+2026-09-26,business,oneway,FCO-BOS,2026-11-29,,Delta,0,,18257,6086,DL113 nonstop
+2026-09-26,business,oneway,FCO-BOS,2026-11-29,,Icelandair,1,,7512,2504,via Reykjavik
+2026-09-26,business,oneway,FCO-BOS,2026-11-30,,Turkish Airlines,1,,7561,2520,via Istanbul (backtrack east)
+2026-09-26,business,oneway,FLR-BOS,2026-11-29,,SWISS,1,,14373,4791,via Zurich 90 min
+2026-09-26,business,oneway,FLR-BOS,2026-11-29,,British Airways,1,,12139,4046,via London
+2026-09-26,business,oneway,FLR-BOS,2026-11-30,,British Airways,1,,12164,4055,via London
+2026-09-26,premium-economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,2615,872,verify cabin: TAP has no true premium-economy cabin; overnight Lisbon layover home
+2026-09-26,premium-economy,roundtrip,BOS-FCO,2026-11-18,2026-11-29,TAP,1,1,4280,1427,verify cabin
+2026-09-26,premium-economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,TAP,1,1,2574,858,verify cabin; long layovers
+2026-09-26,premium-economy,roundtrip,BOS-FLR,2026-11-19,2026-11-30,United + TAP,2,1,4043,1348,
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,Delta,0,,3650,1217,DL112 nonstop 6:45pm -> 8:45am (Premium Select)
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,ITA,0,,3932,1311,AZ615 nonstop 5:20pm -> 7:15am
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,Air Canada,1,,3090,1030,via Toronto/Montreal
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,American,1,,3105,1035,
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-19,,United,1,,3393,1131,
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-29,,Delta,0,,9208,3069,DL113 nonstop
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-29,,British Airways,1,,7333,2444,via London
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-30,,British Airways,1,,6082,2027,via London
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-30,,KLM,1,,6109,2036,via Amsterdam
+2026-09-26,premium-economy,oneway,FLR-BOS,2026-11-29,,British Airways,1,,7278,2426,via London
+2026-09-26,premium-economy,oneway,FLR-BOS,2026-11-30,,British Airways,1,,6027,2009,via London
+2026-09-26,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,1905,635,reference only (priced for 1 adult x3)
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS + Austrian,1,1,2385,795,reference only (priced for 1 adult x3)
