@@ -3,6 +3,8 @@
 **Travelers:** 3 adults · **From:** Boston (BOS)
 **Out:** Wed Nov 18 or Thu Nov 19 · **Home:** Sun Nov 29 or Mon Nov 30
 **Cabins tracked:** business and premium economy (extra legroom); economy for reference only
+**Stops:** nonstop or 1 stop each way (2+ stops are filtered out)
+**Daily check:** automatic, see [`TRACKING.md`](TRACKING.md)
 
 Full price history: [`fares.csv`](fares.csv). All prices are Google Flights totals **for 3 adults** in USD, checked 2026-09-26.
 
@@ -31,7 +33,6 @@ The four free days before Florence are where Pompeii fits. The best ticket shape
 | ⭐ **Most comfortable into Florence** | SWISS BOS⇄FLR, Nov 18 → Nov 30 | **$14,260** | $4,753 | LX53 overnight via Zurich (85 min) with a lie-flat seat. Home on LX1675 + LX52, landing BOS 8:20pm. |
 | ⭐ **Nonstop into Rome** | ITA AZ615 BOS→FCO Nov 18 (nonstop, 5:20pm → 7:15am) | $12,977 one-way | $4,326 | Also nonstop home: AZ614 FCO→BOS Nov 29, $12,062. These are one-way prices. **A round trip or open-jaw on one ticket is usually much cheaper**, so check the link below. |
 | **Cheapest business** | Icelandair BOS⇄FCO, Nov 18 → Nov 30 | **$9,627** | $3,209 | Via Reykjavik. Saga Premium is a large recliner, **not lie-flat**. |
-| Budget business into Florence | SWISS out, Air Dolomiti + Air Canada home, Nov 18 → Nov 29/30 | $10,446 | $3,482 | Lie-flat outbound. The return leaves FLR at 6:30am and connects in Frankfurt and Montreal. |
 
 Other business one-ways found: BA via London (BOS→FCO $10,245; FLR→BOS $12,139), Air France via Paris ($12,787), Delta nonstop FCO→BOS ($18,257).
 
@@ -65,6 +66,7 @@ On each Google Flights page, switch on **Track prices** to get emails when the f
 
 ## How this tracker works
 
+- A scheduled Claude routine runs every morning. It re-runs the searches in [`TRACKING.md`](TRACKING.md), appends new rows to `fares.csv`, updates [`LATEST.md`](LATEST.md) with the day's best fares, and flags drops.
 - `fares.csv` holds one row per fare observation. New checks are appended with a new `checked` date, so price movement stays visible over time.
 - Searches: BOS ⇄ FCO / FLR (plus one-ways FCO/FLR → BOS) for all four date combinations, in business and premium economy, for 3 adults.
 - Data comes from Google Flights through an Apify scraper. Round-trip rows show the cheapest outbound combined with return options, so **nonstop round trips (ITA/Delta) need the links above** to see their real combined price.
