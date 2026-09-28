@@ -1,0 +1,70 @@
+checked,cabin,trip,route,depart,return,airlines,stops_out,stops_back,total_usd_3_adults,per_person_usd,notes
+2026-09-26,premium-economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,2615,872,verify cabin: TAP has no true premium-economy cabin; overnight Lisbon layover home
+2026-09-26,premium-economy,roundtrip,BOS-FCO,2026-11-18,2026-11-29,TAP,1,1,4280,1427,verify cabin
+2026-09-26,premium-economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,TAP,1,1,2574,858,verify cabin; long layovers
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,Delta,0,,3650,1217,DL112 nonstop 6:45pm -> 8:45am (Premium Select)
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,ITA,0,,3932,1311,AZ615 nonstop 5:20pm -> 7:15am
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,Air Canada,1,,3090,1030,via Toronto/Montreal
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-18,,American,1,,3105,1035,
+2026-09-26,premium-economy,oneway,BOS-FCO,2026-11-19,,United,1,,3393,1131,
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-29,,Delta,0,,9208,3069,DL113 nonstop
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-29,,British Airways,1,,7333,2444,via London
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-30,,British Airways,1,,6082,2027,via London
+2026-09-26,premium-economy,oneway,FCO-BOS,2026-11-30,,KLM,1,,6109,2036,via Amsterdam
+2026-09-26,premium-economy,oneway,FLR-BOS,2026-11-29,,British Airways,1,,7278,2426,via London
+2026-09-26,premium-economy,oneway,FLR-BOS,2026-11-30,,British Airways,1,,6027,2009,via London
+2026-09-26,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,1904,635,via Lisbon; overnight Lisbon layover coming home
+2026-09-26,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,2543,848,via Lisbon both ways; home TP833+TP215 lands BOS 7:55pm Nov 30
+2026-09-26,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-29,TAP,1,1,2543,848,via Lisbon; long return layover
+2026-09-26,economy,roundtrip,BOS-FCO,2026-11-19,2026-11-30,American + British Airways,1,1,2328,776,via London; long connection
+2026-09-26,economy,roundtrip,BOS-FCO,2026-11-19,2026-11-30,American + British Airways + Iberia,1,1,3224,1075,via London
+2026-09-26,economy,roundtrip,BOS-FCO,2026-11-19,2026-11-29,TAP,1,1,3038,1013,via Lisbon
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS + Austrian,1,1,2383,794,via Zurich out; overnight Vienna home
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS + Air Dolomiti + Lufthansa,1,1,2526,842,long return connection
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS,1,1,2956,985,LX53+LX1674 lands FLR 1:50pm Nov 19; home LX1675+LX52 lands BOS 8:20pm Nov 30; short Zurich connections
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS + Air Dolomiti + Lufthansa,1,1,2978,993,home via Munich LH424 lands BOS 6:35pm Nov 30
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-29,SWISS,1,1,2956,985,long return layover
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-29,SWISS,1,1,3829,1276,short connections
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-19,2026-11-30,TAP,1,1,2452,817,via Lisbon; long layovers
+2026-09-26,economy,roundtrip,BOS-FLR,2026-11-19,2026-11-29,Lufthansa + Air Dolomiti + SWISS,1,1,3577,1192,long layovers
+2026-09-26,economy,oneway,BOS-FCO,2026-11-18,,Aer Lingus,1,,1123,374,via Dublin
+2026-09-26,economy,oneway,BOS-FCO,2026-11-18,,TAP,1,,1175,392,via Lisbon
+2026-09-26,economy,oneway,BOS-FCO,2026-11-18,,Delta,0,,1370,457,DL112 nonstop 6:45pm -> 8:45am
+2026-09-26,economy,oneway,BOS-FCO,2026-11-18,,British Airways,1,,1362,454,via London
+2026-09-26,economy,oneway,BOS-FCO,2026-11-18,,ITA,0,,1595,532,AZ615 nonstop 5:20pm -> 7:15am
+2026-09-26,economy,oneway,FLR-BOS,2026-11-30,,TAP,1,,1859,620,via Lisbon; overnight layover
+2026-09-26,economy,oneway,FLR-BOS,2026-11-30,,ITA + Delta,1,,2174,725,overnight in Rome then DL113 nonstop
+2026-09-26,economy,oneway,FLR-BOS,2026-11-30,,British Airways,1,,2486,829,via London
+2026-09-26,economy,oneway,FCO-BOS,2026-11-29,,Turkish Airlines,1,,2350,783,via Istanbul
+2026-09-26,economy,oneway,FCO-BOS,2026-11-29,,Delta,0,,2770,923,DL113 nonstop
+2026-09-26,economy,oneway,FCO-BOS,2026-11-29,,ITA,0,,2884,961,AZ614 nonstop
+2026-09-28,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-29,ITA,0,0,3017,1006,AZ615/AZ614 nonstop both ways; out 5:20pm lands 7:15am; home 10:15am lands BOS 1:45pm
+2026-09-28,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,2084,695,via Lisbon; overnight Lisbon layover home
+2026-09-28,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,2213,738,via Lisbon; long return layover
+2026-09-28,economy,roundtrip,BOS-FCO,2026-11-18,2026-11-30,TAP,1,1,2633,878,via Lisbon; ~2h connections
+2026-09-28,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS + Austrian,1,1,2383,794,overnight Vienna home
+2026-09-28,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS,1,1,2956,985,short Zurich connections both ways
+2026-09-28,economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,SWISS + Air Dolomiti + Lufthansa,1,1,3245,1082,home via Munich
+2026-09-28,economy,roundtrip,BOS-FLR,2026-11-19,2026-11-30,TAP,1,1,2580,860,via Lisbon; long layovers
+2026-09-28,economy,oneway,BOS-FCO,2026-11-18,,Aer Lingus,1,,1150,383,via Dublin
+2026-09-28,economy,oneway,BOS-FCO,2026-11-18,,TAP,1,,1175,392,via Lisbon
+2026-09-28,economy,oneway,BOS-FCO,2026-11-18,,British Airways,1,,1362,454,via London
+2026-09-28,economy,oneway,FLR-BOS,2026-11-30,,TAP,1,,1857,619,via Lisbon; overnight layover
+2026-09-28,economy,oneway,FLR-BOS,2026-11-30,,ITA + Delta,1,,2171,724,overnight in Rome then DL113 nonstop
+2026-09-28,economy,oneway,FLR-BOS,2026-11-30,,Air France,1,,2438,813,via Paris
+2026-09-28,economy,oneway,FCO-BOS,2026-11-29,,Turkish Airlines,1,,1876,625,via Istanbul; long
+2026-09-28,economy,oneway,FCO-BOS,2026-11-29,,Delta,0,,2763,921,DL113 nonstop
+2026-09-28,economy,oneway,FCO-BOS,2026-11-29,,ITA,0,,2881,960,AZ614 nonstop
+2026-09-28,economy,oneway,FLR-BOS,2026-11-29,,British Airways,1,,2517,839,via London; long connection
+2026-09-28,economy,oneway,FLR-BOS,2026-11-29,,ITA,1,,2966,989,via Rome
+2026-09-28,premium-economy,roundtrip,BOS-FCO,2026-11-19,2026-11-30,TAP,1,1,4280,1427,verify cabin; long layovers
+2026-09-28,premium-economy,roundtrip,BOS-FCO,2026-11-18,2026-11-29,Air Canada,1,1,6124,2041,via Canada; long
+2026-09-28,premium-economy,roundtrip,BOS-FLR,2026-11-18,2026-11-30,TAP,1,1,2574,858,verify cabin; long layovers
+2026-09-28,premium-economy,oneway,BOS-FCO,2026-11-18,,TAP,1,,2063,688,verify cabin
+2026-09-28,premium-economy,oneway,BOS-FCO,2026-11-18,,Delta,0,,3650,1217,DL112 nonstop (Premium Select)
+2026-09-28,premium-economy,oneway,BOS-FCO,2026-11-18,,Air Canada,1,,3090,1030,
+2026-09-28,premium-economy,oneway,FLR-BOS,2026-11-30,,TAP,1,,2577,859,verify cabin
+2026-09-28,premium-economy,oneway,FLR-BOS,2026-11-30,,British Airways,1,,6105,2035,via London
+2026-09-28,premium-economy,oneway,FCO-BOS,2026-11-29,,Air France,1,,7337,2446,via Paris
+2026-09-28,premium-economy,oneway,FCO-BOS,2026-11-29,,Delta,0,,9156,3052,DL113 nonstop
+2026-09-28,premium-economy,oneway,FLR-BOS,2026-11-29,,Air France,1,,7316,2439,via Paris
