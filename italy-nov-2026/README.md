@@ -45,7 +45,7 @@ Full price history: [`fares.csv`](fares.csv). All prices are Google Flights tota
 
 ### Nonstop option
 
-Delta's nonstop to Rome is $1,370 for 3 one-way (DL112, Nov 18). The nonstops home (Delta or ITA, Nov 29) are about $2,770–2,880 as one-ways, which makes the pair about $4,100–4,300, just over budget. On a single ticket the pair may come in lower, so use the link below.
+**Update 2026-09-28:** ITA's nonstop round trip Boston ⇄ Rome, **Nov 18 → Nov 29, is $3,017 for 3** (AZ615 out at 5:20pm, landing 7:15am; AZ614 home at 10:15am Sunday, landing Boston 1:45pm). That's in budget. The catch is that you'd need to be in Rome on Sunday morning, so spend Saturday night in Rome after Tuscany (1h35 by train from Florence). Check whether the fare includes a checked bag.
 
 ---
 
